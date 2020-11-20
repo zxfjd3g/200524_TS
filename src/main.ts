@@ -11,7 +11,11 @@
 // import './04_类/test01'
 // import './04_类/test02'
 
+// import './05_函数类型/test'
 
-import './05_函数类型/test'
+import './06_泛型/test01'
+
+
+
 
 document.write('Hello Webpack TS!')

@@ -8,5 +8,6 @@ Object.defineProperty(exports, "__esModule", { value: true });
 // import './03_接口/test03'
 // import './04_类/test01'
 // import './04_类/test02'
-require("./05_\u51FD\u6570\u7C7B\u578B/test");
+// import './05_函数类型/test'
+require("./06_\u6CDB\u578B/test01");
 document.write('Hello Webpack TS!');
